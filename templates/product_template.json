@@ -1,0 +1,25 @@
+{
+  "product_name": "<string>",
+  "short_description": "<string>",
+  "ingredients_highlight": "<string>",
+  "benefits_overview": "<string>",
+  "detailed_usage": "<string>",
+  "safety_notes": "<string>",
+  "raw": {
+    "concentration": "<string>",
+    "skin_type": [
+      "<string>"
+    ],
+    "ingredients": [
+      "<string>"
+    ],
+    "benefits": [
+      "<string>"
+    ],
+    "usage": "<string>",
+    "side_effects": [
+      "<string>"
+    ],
+    "price_in_inr": "<int>"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "product_name": "<string>",
+  "questions": [
+    {
+      "category": "<string>",
+      "question": "<string>",
+      "answer": "<string>"
+    }
+  ]
+}

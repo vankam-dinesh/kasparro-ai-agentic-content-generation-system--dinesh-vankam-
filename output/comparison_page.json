@@ -1,0 +1,62 @@
+{
+  "product_A": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "price_in_inr": 699,
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ]
+  },
+  "product_B": {
+    "name": "RadiantLift C+Bright Gel",
+    "concentration": "12% Vitamin C",
+    "price_in_inr": 799,
+    "skin_type_description": "Best suited for normal to combination skin.",
+    "key_ingredients": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots",
+      "Supports skin barrier"
+    ],
+    "texture": "Lightweight gel-cream."
+  },
+  "comparison_points": [
+    {
+      "attribute": "Target concern",
+      "product_A": "Brightening and fading dark spots.",
+      "product_B": "Brightening, dark spot reduction, and added barrier support."
+    },
+    {
+      "attribute": "Skin type focus",
+      "product_A": "Designed for Oily, Combination skin.",
+      "product_B": "Best suited for normal to combination skin."
+    },
+    {
+      "attribute": "Key ingredients",
+      "product_A": "Vitamin C, Hyaluronic Acid",
+      "product_B": "Vitamin C, Niacinamide"
+    },
+    {
+      "attribute": "Price (₹)",
+      "product_A": 699,
+      "product_B": 799
+    },
+    {
+      "attribute": "Texture / format",
+      "product_A": "Lightweight serum.",
+      "product_B": "Lightweight gel-cream."
+    }
+  ]
+}

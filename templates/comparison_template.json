@@ -1,0 +1,36 @@
+{
+  "product_A": {
+    "name": "<string>",
+    "concentration": "<string>",
+    "price_in_inr": "<int>",
+    "skin_type": [
+      "<string>"
+    ],
+    "key_ingredients": [
+      "<string>"
+    ],
+    "benefits": [
+      "<string>"
+    ]
+  },
+  "product_B": {
+    "name": "<string>",
+    "concentration": "<string>",
+    "price_in_inr": "<int>",
+    "skin_type_description": "<string>",
+    "key_ingredients": [
+      "<string>"
+    ],
+    "benefits": [
+      "<string>"
+    ],
+    "texture": "<string>"
+  },
+  "comparison_points": [
+    {
+      "attribute": "<string>",
+      "product_A": "<string|int>",
+      "product_B": "<string|int>"
+    }
+  ]
+}
